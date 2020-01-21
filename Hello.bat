@@ -1,2 +1,2 @@
 echo "Helloworld %date%: %time%"
-"I am Defect branch"
+echo "I am Defect branch"
